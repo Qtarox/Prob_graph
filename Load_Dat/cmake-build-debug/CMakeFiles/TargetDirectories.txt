@@ -1,0 +1,3 @@
+D:/YURI/PHD_NTU/linear_equation/Z-tech/GENERAL_AUTO/New_C/Load_Dat/cmake-build-debug/CMakeFiles/Load_Dat.dir
+D:/YURI/PHD_NTU/linear_equation/Z-tech/GENERAL_AUTO/New_C/Load_Dat/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/YURI/PHD_NTU/linear_equation/Z-tech/GENERAL_AUTO/New_C/Load_Dat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
